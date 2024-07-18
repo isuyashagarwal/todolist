@@ -29,7 +29,7 @@ virtualenv todobackend
 cd todobackend
 ```
 
-4. Copy and paste app folder and requirements.txt in todobackend folder from the backend folder
+4. Copy and paste app folder and requirements.txt in todobackend folder from the backend-code folder
 
 5. Install the dependencies in the todobackend virtualenv
 
