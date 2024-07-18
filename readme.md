@@ -1,4 +1,4 @@
-# Foobar
+# Todolist
 
 Todo List made with React frontend and FastAPI Backend.
 
